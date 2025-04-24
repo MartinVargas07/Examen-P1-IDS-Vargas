@@ -3,7 +3,7 @@
 > **⚠️ Nota importante**  
 > El archivo PDF en `docs/Analisis_Diseno_y_Capturas_Funcionamiento_BioNet_Vargas.pdf`  
 > es la **versión actualizada y completa** del informe (contiene 2-3 capturas adicionales respecto a la versión subida inicialmente a Brightspace).  
-> Revisa ese documento para ver el análisis, los diagramas y la evidencia de ejecución.
+> Revise ese documento para ver el análisis, los diagramas y la evidencia de ejecución.
 
 ---
 
