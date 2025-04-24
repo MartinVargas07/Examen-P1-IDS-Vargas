@@ -1,0 +1,4 @@
+watchdog==4.0.0
+pandas==2.2.2
+pyodbc==5.1.0          # necesitarás el ODBC Driver 18
+python-dotenv==1.0.1

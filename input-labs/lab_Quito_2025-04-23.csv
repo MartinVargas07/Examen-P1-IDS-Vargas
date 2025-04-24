@@ -1,0 +1,4 @@
+id,laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,101,5563,HEMOGLOBIN,12.178601249986807,2025-04-23
+2,101,3012,GLUCOSE,131.0,2025-04-23
+3,101,8121,PLATELETS,154502.0,2025-04-23
